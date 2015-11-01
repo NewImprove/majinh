@@ -23,6 +23,13 @@
     
     
     NSLog(@"fuck");
+    
+    
+    
+    
+    
+    UIButton * btnera = [UIButton new];
+    [self.view addSubview:btnera];
     //fjaslkdfjsalkdfjaslk;dfjasdlfks
     // Do any additional setup after loading the view, typically from a nib.
 }
