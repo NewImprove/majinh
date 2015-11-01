@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"324567890-=");
-    NSLog(@"456789");
-    NSLog(@"utuytuytuytu");
+    NSLog(@"sdfiahsdfkhasdjf");
+    UIButton * btn = [UIButton new];
+    [self.view addSubview:btn];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
