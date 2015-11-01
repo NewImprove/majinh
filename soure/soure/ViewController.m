@@ -19,6 +19,7 @@
     NSLog(@"sdfiahsdfkhasdjf");
     UIButton * btn = [UIButton new];
     [self.view addSubview:btn];
+    [self.view removeFromSuperview];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
