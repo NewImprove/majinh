@@ -20,6 +20,10 @@
     UIButton * btn = [UIButton new];
     [self.view addSubview:btn];
     [self.view removeFromSuperview];
+    
+    
+    NSLog(@"fuck");
+    //fjaslkdfjsalkdfjaslk;dfjasdlfks
     // Do any additional setup after loading the view, typically from a nib.
 }
 
